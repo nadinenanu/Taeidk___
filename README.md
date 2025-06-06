@@ -264,7 +264,7 @@
       const select = document.getElementById(idSelect);
       const tamano = select.value;
       const mensaje = `Hola, quisiera el ${nombreProducto} en ${tamano}`;
-      const url = `https://wa.me/5491112345678?text=${encodeURIComponent(mensaje)}`;
+      const url = `https://wa.me/5491131457429?text=${encodeURIComponent(mensaje)}`;
       window.open(url, '_blank');
     }
   </script>
